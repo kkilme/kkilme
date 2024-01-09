@@ -1,6 +1,10 @@
-# Gamer, Game Developer
-![Travis](https://steam-stat.vercel.app/api?profileName=kkirmi1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkilme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### I Love Games
+<div>
+    <img align=top src="https://steam-stat.vercel.app/api?profileName=kkirmi1"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkilme&layout=compact"/>
+</div>
+
+
 <!--
 **kkilme/kkilme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
