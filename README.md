@@ -6,7 +6,7 @@
         <img style="border-radius:25px" src="https://steam-stat.vercel.app/api?profileName=kkirmi1" href="https://steamcommunity.com/id/kkirmi1/"/>
     </a>
 </div>
-
+<div align="center"> Click above image to view my steam profile. </div>
 #
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/tree/master" target="_blank">
