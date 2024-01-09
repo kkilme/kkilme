@@ -2,7 +2,7 @@
 
 #
 <div align=center>
-    <a href="https://steamcommunity.com/id/kkirmi1/" target="_blank">
+    <a href="https://steamcommunity.com/id/kkilme/" target="_blank">
         <img style="border-radius:25px" src="https://steam-stat.vercel.app/api?profileName=kkirmi1" href="https://steamcommunity.com/id/kkirmi1/"/>
     </a>
 </div>
