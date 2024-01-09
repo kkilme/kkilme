@@ -1,21 +1,12 @@
-### I Love Games
-<div>
-    <img align=top src="https://steam-stat.vercel.app/api?profileName=kkirmi1"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkilme&layout=compact"/>
+<h3 align="center"> Hi 👋 I'm game lover. </h3>
+
+#
+<div align=center>
+    <img style="border-radius:25px" src="https://steam-stat.vercel.app/api?profileName=kkirmi1"/>
 </div>
 
-
-<!--
-**kkilme/kkilme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+<div align="center">
+    <img align="center" style="border-radius:25px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkilme&layout=compact&theme=dark"/>
+    <img align="center" style="border-radius:25px" src="https://github-readme-stats.vercel.app/api?username=kkilme&hide=issues,stars,contribs&hide_rank=true&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
+</div>
