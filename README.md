@@ -7,5 +7,5 @@
     </a>
 </div>
 
-<div align="center"> Click above image to view my steam profile. </div>
+<div align="center"> Click the image above to view my steam profile. </div>
 <div align="center"> Profile card powered by https://github.com/Ananto30/steam-stat </div>
