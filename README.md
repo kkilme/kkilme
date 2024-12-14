@@ -15,7 +15,7 @@
     <a align="center" href="https://wakatime.com/@kkilme">
         <img height=200 width=400 align="center" src='https://github-readme-stats.vercel.app/api/wakatime?username=kkilme&layout=compact&theme=github_dark&custom_title=WakaTime+Stats+(2024-01~)' />
     </a>
-    <a align="center" href="https://github.com/mazassumnida/mazassumnida">
+    <a align="center" href="https://solved.ac/profile/kkilme">
         <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkilme" />
     </a>
 <div align="center"> Profile Card powered by https://github.com/anuraghazra/github-readme-stats , https://github.com/mazassumnida/mazassumnida</div>
