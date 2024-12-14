@@ -13,12 +13,11 @@
 #
 <div align="center">
     <a align="center" href="https://wakatime.com/@kkilme">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kkilme&layout=compact&theme=github_dark" />
+        <img height=200 width=400 align="center" src='https://github-readme-stats.vercel.app/api/wakatime?username=kkilme&layout=compact&theme=github_dark&custom_title=WakaTime+Stats+(2024-01~)' />
     </a>
     <a align="center" href="https://github.com/mazassumnida/mazassumnida">
         <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkilme" />
     </a>
-<div align="center"> WakaTime Stats since JAN 10, 2024 </div>
 <div align="center"> Profile Card powered by https://github.com/anuraghazra/github-readme-stats , https://github.com/mazassumnida/mazassumnida</div>
 </div>
 
