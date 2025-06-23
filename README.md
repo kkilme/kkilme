@@ -8,6 +8,7 @@
 </div>
 
 <div align="center"> Click the image above to view my Steam profile. </div>
+<div align="center"> (The image may not display properly if there's an issue with the API.) </div>
 <div align="center"> Steam profile card powered by https://github.com/Ananto30/steam-stat </div>
 
 #
