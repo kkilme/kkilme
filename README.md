@@ -19,7 +19,7 @@
     <a align="center" href="https://solved.ac/profile/kkilme">
         <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkilme" />
     </a>
-<div align="center"> Profile Card powered by https://github.com/anuraghazra/github-readme-stats , https://github.com/mazassumnida/mazassumnida</div>
+<div align="center"> Profile Card powered by https://github.com/anuraghazra/github-readme-stats (API endpoint: https://github.com/dchu096/github-readme-stats) , https://github.com/mazassumnida/mazassumnida</div>
 </div>
 
 
