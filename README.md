@@ -13,8 +13,8 @@
 
 #
 <div align="center">
-    <a align="center" href="https://wakatime.com/@kkilme">
-        <img height=500 width=400 align="center" src='https://gh-stats.work/API/wakatime?username=kkilme&layout=compact&theme=github_dark&custom_title=WakaTime+Stats+(2024-01~)' />
+    <a align="left" href="https://wakatime.com/@kkilme">
+        <img height=400 width=1200 align="center" src='https://gh-stats.work/API/wakatime?username=kkilme&layout=compact&theme=github_dark&custom_title=WakaTime+Stats+(2024-01~)' />
     </a>
     <a align="center" href="https://solved.ac/profile/kkilme">
         <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkilme" />
